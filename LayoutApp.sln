@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutApp", "LayoutApp\LayoutApp.csproj", "{D370B791-415C-4BB6-9DA9-B7EB50CFA073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D370B791-415C-4BB6-9DA9-B7EB50CFA073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D370B791-415C-4BB6-9DA9-B7EB50CFA073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D370B791-415C-4BB6-9DA9-B7EB50CFA073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D370B791-415C-4BB6-9DA9-B7EB50CFA073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCEBF87-FC2C-475D-BB69-6096C24A1A6E}
+	EndGlobalSection
+EndGlobal
