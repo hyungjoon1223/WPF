@@ -1,0 +1,42 @@
+﻿<Window x:Class="ControlApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBox>test Text</TextBox>
+            <TextBlock>text TextBlock</TextBlock>
+            <Button>안녕하세요.</Button>
+            <ListBoxItem>item 1</ListBoxItem>
+            <ListBoxItem>item 2</ListBoxItem>
+            <ListBoxItem>item 3</ListBoxItem>
+            <ListBoxItem>item 4</ListBoxItem>
+            <ListBoxItem>item 5</ListBoxItem>
+        </StackPanel>
+        <DockPanel Grid.Column="1">
+            <Button DockPanel.Dock="Left"> height = "100" Left</Button>
+            <Button DockPanel.Dock="Top">,TOP</Button>
+            <Button DockPanel.Dock="Right">TOP</Button>
+            <StackPanel></StackPanel>
+        </DockPanel>
+        <StackPanel>
+            <TextBox>test Text</TextBox>
+            <TextBlock>text TextBlock</TextBlock>
+            <Button>안녕하세요.</Button>
+            <ListBoxItem>item 1</ListBoxItem>
+            <ListBoxItem>item 2</ListBoxItem>
+            <ListBoxItem>item 3</ListBoxItem>
+            <ListBoxItem>item 4</ListBoxItem>
+            <ListBoxItem>item 5</ListBoxItem>
+        </StackPanel>
+    </Grid>
+
+</Window>

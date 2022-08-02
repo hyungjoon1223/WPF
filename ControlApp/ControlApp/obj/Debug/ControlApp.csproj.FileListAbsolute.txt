@@ -1,0 +1,17 @@
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\bin\Debug\ControlApp.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\bin\Debug\ControlApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\bin\Debug\ControlApp.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp_Content.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\ControlApp\ControlApp\obj\Debug\ControlApp.pdb

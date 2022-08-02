@@ -1,0 +1,83 @@
+﻿<Window x:Class="ControlApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Margin" Value="5,3"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBox>test Text</TextBox>
+            <TextBlock> test TextBlock</TextBlock>
+            <Button>안녕하세요.</Button>
+            <ListBox>
+                <ListBoxItem>item 1</ListBoxItem>
+                <ListBoxItem>item 2</ListBoxItem>
+                <ListBoxItem>item 3</ListBoxItem>
+                <ListBoxItem>item 4</ListBoxItem>
+                <ListBoxItem>item 5</ListBoxItem>
+            </ListBox>
+        </StackPanel>
+        <WrapPanel Grid.Row ="1" Background="Yellow">
+            <Button>Hello 1</Button>
+            <Button>Hello 2</Button>
+            <Button>Hello 3</Button>
+            <Button>Hello 4</Button>
+            <Button>Hello 5</Button>
+            <Button>Hello 6</Button>
+            <Button>Hello 7</Button>
+            <Button>Hello 8</Button>
+            <Button>Hello 9</Button>
+            <Button>Hello 10</Button>
+        </WrapPanel>
+        <UniformGrid Grid.Row ="2" Background="#FF50F070">
+            <Button>Hello 1</Button>
+            <Button>Hello 2</Button>
+            <Button>Hello 3</Button>
+            <Button>Hello 4</Button>
+            <Button>Hello 5</Button>
+            <Button>Hello 6</Button>
+            <Button>Hello 7</Button>
+            <Button>Hello 8</Button>
+            <Button>Hello 9</Button>
+            <Button>Hello 10</Button>
+        </UniformGrid>
+        <DockPanel Grid.Column="1" Grid.RowSpan="3" Background="Chocolate" LastChildFill="False">
+            <Button DockPanel.Dock="Top" Height="100">Top</Button>
+            <Button DockPanel.Dock="Left" Padding="30" Margin="10">Left</Button>
+            <Button DockPanel.Dock="Right">Right</Button>
+            <Grid Background="LightBlue">
+                <StackPanel>
+                    <TextBox>test Text</TextBox>
+                    <TextBlock> test TextBlock</TextBlock>
+                    <Button>안녕하세요.</Button>
+                    <ListBox>
+                        <ListBoxItem>item 1</ListBoxItem>
+                        <ListBoxItem>item 2</ListBoxItem>
+                        <ListBoxItem>item 3</ListBoxItem>
+                        <ListBoxItem>item 4</ListBoxItem>
+                        <ListBoxItem>item 5</ListBoxItem>
+                        <ListBoxItem>item 6</ListBoxItem>
+                        <ListBoxItem>item 7</ListBoxItem>
+                    </ListBox>
+                </StackPanel>
+            </Grid>
+        </DockPanel>
+
+    </Grid>
+</Window>

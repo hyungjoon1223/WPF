@@ -1,0 +1,25 @@
+﻿<Window x:Class="ControlApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button>
+            <!--<MediaElement Source="./1.mp4"/>-->
+            <Button.Content>
+                <TextBox Text ="추가버튼"/>
+            </Button.Content>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Grid>
+                        <Ellipse Fill="Orange" Width="150" Height="100"/>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>
