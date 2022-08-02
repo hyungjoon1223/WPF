@@ -1,0 +1,17 @@
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\bin\Debug\MarkupApp.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\bin\Debug\MarkupApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\bin\Debug\MarkupApp.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\MarkupApp\MarkupApp\obj\Debug\MarkupApp.pdb
