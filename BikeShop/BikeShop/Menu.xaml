@@ -10,7 +10,7 @@
 
     <Grid>
         <Button Content="Products" HorizontalAlignment="Left" Height="118" Margin="87,107,0,0" VerticalAlignment="Top" Width="172" RenderTransformOrigin="0.558,0.541"/>
-        <Button Content="Live support" HorizontalAlignment="Left" Height="118" Margin="331,107,0,0" VerticalAlignment="Top" Width="172"/>
+        <Button Content="Live support" HorizontalAlignment="Left" Height="118" Margin="331,107,0,0" VerticalAlignment="Top" Width="172" Click="Button_Click_1"/>
         <Button Content="Email support" HorizontalAlignment="Left" Height="118" Margin="570,107,0,0" VerticalAlignment="Top" Width="176" Click="Button_Click"/>
         <TextBlock HorizontalAlignment="Left" Height="92" Margin="128,265,0,0" TextWrapping="Wrap" Text="Adventure works" VerticalAlignment="Top" Width="578" FontSize="32" FontStyle="Italic"/>
 

@@ -18,3 +18,5 @@ C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.exe
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.pdb
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Menu.g.cs
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Menu.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Discussion.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Discussion.baml
