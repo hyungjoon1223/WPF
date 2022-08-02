@@ -1,0 +1,16 @@
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\bin\Debug\RoutedEventApp.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\bin\Debug\RoutedEventApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\bin\Debug\RoutedEventApp.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\RoutedEventApp\RoutedEventApp\obj\Debug\RoutedEventApp.pdb
