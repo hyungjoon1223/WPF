@@ -1,0 +1,17 @@
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\bin\Debug\LocalObjectApp.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\bin\Debug\LocalObjectApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\bin\Debug\LocalObjectApp.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\LocalObjectApp.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\LocalObjectApp\LocalObjectApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
