@@ -47,7 +47,6 @@
             </Button>
             <Button x:Name="btn" Width="150" Content="{Binding DataStr}">
             </Button>
-            
         </StackPanel>
     </Grid>
 </Window>
