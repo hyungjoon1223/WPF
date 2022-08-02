@@ -1,0 +1,55 @@
+﻿<Window x:Class="DataBindingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBindingApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <GroupBox Header="BindData1">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Hello!"></TextBlock>
+                    <Button Content="Click"></Button>
+                    <TextBlock Text="100"></TextBlock>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="BindData2">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding DataStr}"></TextBlock>
+                    <Button Content="Click"></Button>
+                    <TextBlock Text="{Binding Path=DataInt}"></TextBlock>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="BindData2">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding DataStr}"></TextBlock>
+                    <Button Background="Pink" Content="Click"></Button>
+                    <TextBox Text="{Binding Path=DataInt}"></TextBox>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="BindData3">
+                <GroupBox.DataContext>
+                    <local:BindData DataStr="Hi~" DataInt="500"/>
+                </GroupBox.DataContext>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding DataStr}"></TextBlock>
+                    <Button Background="Pink" Content="Click"></Button>
+                    <TextBox Text="{Binding Path=DataInt}"></TextBox>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="BindData4">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding DataStr}"></TextBlock>
+                    <Button Background="Pink" Content="Click"></Button>
+                    <TextBox Text="{Binding Path=DataInt}">
+                        <TextBox.DataContext>
+                            <local:BindData DataStr="ABCD" DataInt="-10"/>
+                        </TextBox.DataContext>
+                    </TextBox>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+    </Grid>
+</Window>
