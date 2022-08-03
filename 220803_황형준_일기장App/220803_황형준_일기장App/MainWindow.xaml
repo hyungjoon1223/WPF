@@ -1,0 +1,35 @@
+﻿<Window x:Class="_220803_황형준_일기장App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_220803_황형준_일기장App"
+        xmlns:data="clr-namespace:DataNS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <Label Content="날짜" HorizontalAlignment="Left" Margin="100,85,0,0" VerticalAlignment="Top"/>
+            <Label Content="요일" HorizontalAlignment="Left" Margin="100,135,0,0" VerticalAlignment="Top"/>
+            <Label Content="날씨" HorizontalAlignment="Left" Margin="100,185,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="Date_box" HorizontalAlignment="Left" Margin="150,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="150"/>
+            <ComboBox x:Name="Day_box" HorizontalAlignment="Left" Margin="150,135,0,0" VerticalAlignment="Top" Height="30" Width="150">
+                <ComboBoxItem Content="월요일"/>
+                <ComboBoxItem Content="화요일"/>
+                <ComboBoxItem Content="수요일"/>
+                <ComboBoxItem Content="목요일"/>
+                <ComboBoxItem Content="금요일"/>
+                <ComboBoxItem Content="토요일"/>
+                <ComboBoxItem Content="일요일"/>
+            </ComboBox>
+            <ComboBox x:Name="Weather_box" HorizontalAlignment="Left" Margin="150,185,0,0" VerticalAlignment="Top" Height="30" Width="150">
+                <ComboBoxItem Content="맑음"/>
+                <ComboBoxItem Content="흐림"/>
+                <ComboBoxItem Content="눈"/>
+                <ComboBoxItem Content="비"/>
+            </ComboBox>
+            <CheckBox x:Name="Vacation" Content="휴가" HorizontalAlignment="Left" Margin="343,92,0,0" VerticalAlignment="Top"/>
+            <Button Content="저장하긔~" HorizontalAlignment="Left" Margin="337,135,0,0" VerticalAlignment="Top" Height="80" Width="100" Click="Button_Click"/>
+        </Grid>
+    </Grid>
+</Window>

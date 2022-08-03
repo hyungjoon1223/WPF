@@ -1,0 +1,16 @@
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\bin\Debug\220803_황형준_일기장App.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\bin\Debug\220803_황형준_일기장App.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\bin\Debug\220803_황형준_일기장App.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\_220803_황형준_일기장App.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\220803_황형준_일기장App\220803_황형준_일기장App\obj\Debug\220803_황형준_일기장App.pdb
