@@ -12,6 +12,7 @@
             <sys:String>123</sys:String>
             <sys:String>45678</sys:String>
         </local:StrList>
+        <local:PersonList x:Key="perList"/>
     </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
@@ -22,24 +23,32 @@
             <RowDefinition Height="100"></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        <StackPanel>
-            <GroupBox Header="리스트 정보">
-                <TextBlock>
-                <TextBlock Text ="Count : "/>
-                <TextBlock Text="{Binding List.Count, Mode=OneWay}"/>
-                <TextBlock Text ="리스트 이름: "/>
-                <TextBlock Text="{Binding List.ListName, Mode=OneWay}"/>
-                </TextBlock>
-            </GroupBox>
-            <Border Margin="5"/>
-            <TextBox Text="{Binding SelectedItem, ElementName=lb}" Width="100"/>
-            <TextBox Text="{Binding SelectedIndex, ElementName=lb}" Width="100"/>
+        <StackPanel DataContext="{Binding SelectedItem, ElementName=lb}" Grid.Row="0" Grid.Column="0">
+            <TextBlock Text="이름:"/>
+            <TextBox Text="{Binding Name}"/>
+            <TextBlock Text="나이:"/>
+            <TextBox Text="{Binding Age}"/>
+            <TextBlock Text="색상:"/>
+            <TextBox Text="{Binding Clr}"/>
+            <Border BorderThickness="1" Height="15"/>
         </StackPanel>
-        <ListBox x:Name="lb" ItemsSource="{Binding List}" Grid.Row="1"/>
-        <ListBox ItemsSource="{Binding Source={StaticResource lt}}" Grid.Row="1" Grid.Column="1"/>
-        <Button Grid.Column="1" Content="오른쪽추가" HorizontalAlignment="Left" Height="22" Margin="252,60,0,0" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.495,-1.18" Click="Button_Click_1"/>
-        <Button Grid.Column="1" Content="왼쪽추가" HorizontalAlignment="Left" Height="25" Margin="252,30,0,0" VerticalAlignment="Top" Width="98" Click="Button_Click"/>
-        <TextBox x:Name="tb1" Grid.Column="1" HorizontalAlignment="Left" Height="25" Margin="73,30,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="159"/>
-        <TextBox x:Name="tb2" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="73,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="159"/>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+        </StackPanel>
+        <ListBox x:Name="lb" ItemsSource="{Binding List}" Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                            <TextBlock> 이름:</TextBlock>
+                            <TextBlock Text="{Binding Name}"> </TextBlock>
+                            <TextBlock> 나이:</TextBlock>
+                            <TextBlock Text="{Binding Age}"> </TextBlock>
+                            <TextBlock> 색상:</TextBlock>
+                            <TextBlock Text="{Binding Clr}"> </TextBlock>
+                            <Button Click="Button_Click_2"> 정보 확인 </Button>
+                        </TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>             
+        </ListBox>
+        <ListBox ItemsSource="{Binding Source={StaticResource perList}}" Grid.Row="1" Grid.Column="1"/>
     </Grid>
 </Window>
