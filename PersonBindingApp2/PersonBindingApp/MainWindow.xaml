@@ -1,0 +1,39 @@
+﻿<Window x:Class="PersonBindingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PersonBindingApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:Person x:Key="per" Name="임시디자인이름" Age=" 10" Clr="Red"/>
+        <local:ColorConverter x:Key = "clrConverter"/>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel d:DataContext="{StaticResource per}">
+            <GroupBox Header="{Binding Path=Name}" Margin="5">
+                <StackPanel Orientation="Horizontal" Height="22">
+                    <TextBlock Text="{Binding Path=Name}"></TextBlock>
+                    <TextBox Text="{Binding Age}"></TextBox>
+                    <TextBlock Text="{Binding Clr}"
+                        Background ="{Binding Clr, Converter={StaticResource clrConverter}}">
+                    </TextBlock>
+                    <Border Margin="10"/>
+                    <TextBlock Text="{Binding Age}"/>
+                    <Border Margin="5"/>
+                    <Button Click="Button_Click">생일</Button>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+    </Grid>
+</Window>

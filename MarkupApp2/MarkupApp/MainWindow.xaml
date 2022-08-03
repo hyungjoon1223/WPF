@@ -1,0 +1,80 @@
+﻿<Window x:Class="MarkupApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MarkupApp"
+        xmlns:data="clr-namespace:DataNS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--<Window.DataContext>
+        <data:BindData DataStr="abcde" DataInt="100"/>
+    </Window.DataContext>-->
+    <Window.Resources>
+        <data:BindData x:Key="rbd" DataStr="abcde" DataInt="100"/>
+    </Window.Resources>
+
+
+    <Grid>
+        <StackPanel>
+            <Button Width="150">Hello!</Button>
+            <Button Width="150" Content="{Binding Path=DataStr}"/>
+            <Rectangle Height="5" Fill="Blue"/>
+            <Button Width="150">
+                <Button.Content>
+                    <Binding>
+                        <Binding.Path>
+                            DataStr
+                        </Binding.Path>
+                    </Binding>
+                </Button.Content>
+            </Button>
+            <Button >
+                <Button.Width>
+                    150
+                </Button.Width>
+                <Button.Content>
+                    Hello!
+                </Button.Content>
+            </Button>
+
+            <Button >
+                <Button.Width>
+                    150
+                </Button.Width>
+                <Button.Content>
+                    <data:BindData DataStr="aaa" DataInt="0"/>
+                </Button.Content>
+            </Button>
+            <Button Width="150">
+                <Button.Content>
+                    <data:BindData/>
+                </Button.Content>
+            </Button>
+            <Button x:Name="btn" Width="150" Content="{Binding Path=DataStr}">
+            </Button>
+            <Border Height="10"/>
+
+            <Button  Content="{Binding Path=DataStr , Source={StaticResource ResourceKey=rbd}}"></Button>
+            <Button>
+                <Button.Content>
+                    <Binding>
+                        <Binding.Path>
+                            DataStr
+                        </Binding.Path>
+                        <Binding.Source>
+                            <StaticResource >
+                                <StaticResourceExtension.ResourceKey>
+                                    rbd
+                                </StaticResourceExtension.ResourceKey>
+                            </StaticResource>
+                        </Binding.Source>
+                    </Binding>
+                </Button.Content>
+            </Button>
+            <TextBox Text= "{Binding DataStr, Source = {StaticResource rbd}, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBox Text= "{Binding DataStr, Source = {StaticResource rbd}, UpdateSourceTrigger=PropertyChanged}" />
+            
+        </StackPanel>
+    </Grid>
+</Window>
