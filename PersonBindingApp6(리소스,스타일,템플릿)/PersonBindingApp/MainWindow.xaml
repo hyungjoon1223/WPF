@@ -1,85 +1,129 @@
-﻿<Window x:Class="PersonBindingApp.MainWindow"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PersonBindingApp"
+        xmlns:b="http://schemas.microsoft.com/xaml/behaviors" x:Class="PersonBindingApp.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Window.Resources>
         <local:Person x:Key="per" Name="임시디자인이름" Age=" 10" Clr="Red"/>
-        <local:ColorConverter x:Key = "clrConverter"/>
+        <local:ColorConverter x:Key="clrConverter"/>
         <DataTemplate x:Key="dt1" DataType="Person">
-            <TextBlock>
-                Name : <TextBlock Text="{Binding Name}"/>
-                Age : <TextBlock Text="{Binding Age}"/>
-                Color : <TextBlock Text="{Binding Clr}"/>
-                <Rectangle Width="50" Height="10" Fill="{Binding Clr, Converter={StaticResource clrConverter}}"/>
-            </TextBlock>
+            <TextBlock><Run Text="Name : "/><InlineUIContainer>
+<TextBlock Text="{Binding Name}"/>
+                </InlineUIContainer><Run Text=" Age : "/><InlineUIContainer>
+<TextBlock Text="{Binding Age}"/>
+                </InlineUIContainer><Run Text=" Color : "/><InlineUIContainer>
+<TextBlock Text="{Binding Clr}"/>
+                </InlineUIContainer><Run Text=" "/><InlineUIContainer>
+                <Rectangle Width="50" Height="10"
+                           Fill="{Binding Clr, Converter={StaticResource clrConverter}}"/>
+                </InlineUIContainer></TextBlock>
         </DataTemplate>
         <DataTemplate DataType="{x:Type local:Person}">
-            <TextBlock>
-                Name : <TextBlock Text="{Binding Name}"/>
-                Age : <TextBlock Text="{Binding Age}"/>
-                <Border Background="{Binding Clr,Converter={StaticResource clrConverter}}">
-                    <TextBlock>Color : <TextBlock Text="{Binding Clr}"/></TextBlock>
+            <TextBlock><Run Text="Name : "/><InlineUIContainer>
+<TextBlock Text="{Binding Name}"/>
+                </InlineUIContainer><Run Text=" Age : "/><InlineUIContainer>
+<TextBlock Text="{Binding Age}"/>
+                </InlineUIContainer><Run Text=" "/><InlineUIContainer>
+                <Border Background="{Binding Clr, Converter={StaticResource clrConverter}}">
+                    <TextBlock><Run Text="Color : "/><InlineUIContainer>
+<TextBlock Text="{Binding Clr}"/>
+                        </InlineUIContainer></TextBlock>
                 </Border>
-            </TextBlock>
+                </InlineUIContainer></TextBlock>
         </DataTemplate>
         <Style x:Key="style1" TargetType="{x:Type ListBox}">
             <Setter Property="Margin" Value="10"/>
-            <Setter Property="ItemTemplate">
-                <Setter.Value>
-                    <StaticResource ResourceKey="dt1"/>
-                </Setter.Value>
-            </Setter>
+            <Setter Property="ItemTemplate" Value="{StaticResource dt1}"/>
         </Style>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Margin" Value="0,0,0,10" />
+        </Style>
+        <ControlTemplate x:Key="ct1" TargetType="{x:Type Button}">
+            <Grid>
+                <Ellipse Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" Fill="{TemplateBinding Background}"/>
+                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+
+
     </Window.Resources>
-
-
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <StackPanel d:DataContext="{StaticResource per}">
-            <GroupBox Header="{Binding Path=Name}" Margin="5">
+            <GroupBox Header="{Binding Name}" Margin="5">
                 <StackPanel Orientation="Horizontal" Height="22">
-                    <TextBlock x:Name="tbName" Text="{Binding Name}"></TextBlock>
-                    <TextBox x:Name ="tbAge" Text="{Binding Age}"></TextBox>
+                    <TextBlock x:Name="tbName" Text="{Binding Name}"/>
+                    <TextBox x:Name="tbAge" Text="{Binding Age}"/>
                     <TextBlock x:Name="tbColor" Text="{Binding Clr}"
-                        Background ="{Binding Clr, Converter={StaticResource clrConverter}}">
-                    </TextBlock>
+                               Background="{Binding Clr, Converter={StaticResource clrConverter}}"/>
                     <Border Margin="10"/>
                     <TextBlock Text="{Binding Age}"/>
                     <Border Margin="5"/>
-                    <Button Click="Button_Click">생일</Button>
+                    <Button Click="Button_Click" Content="생일"/>
                 </StackPanel>
             </GroupBox>
-                        <GroupBox Header="{Binding Path=Name}" Margin="5">
+            <GroupBox Header="{Binding Name}" Margin="5">
                 <StackPanel Orientation="Horizontal" Height="22">
-                    <TextBlock Text="{Binding Text, ElementName=tbName}"></TextBlock>
-                    <TextBox Text="{Binding Text, ElementName=tbAge}"></TextBox>
+                    <TextBlock Text="{Binding Text, ElementName=tbName}"/>
+                    <TextBox Text="{Binding Text, ElementName=tbAge}"/>
                     <TextBlock Text="{Binding Text, ElementName=tbColor}"
-                        Background ="{Binding Text, ElementName=tbColor}">
-                    </TextBlock>
+                               Background="{Binding Background, ElementName=tbColor}"/>
                     <Border Margin="10"/>
                     <TextBlock Text="{Binding Age}"/>
                     <Border Margin="5"/>
-                    <Button Click="Button_Click">생일</Button>
+                    <Button Click="Button_Click" Content="생일"/>
                 </StackPanel>
             </GroupBox>
+            <Button Content="data1" Width="150" Height="50">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <Ellipse Width="100" Height="50" Fill="Blue"/>
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="data1" Width="150" Height="50" Background="Orange">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid>
+                            <Ellipse Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" Fill="{TemplateBinding Background}"/>
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="data1" Width="150" Height="50" Background="LightGreen"
+                    Template="{StaticResource ct1}" MouseLeave="Button_MouseLeave_1" MouseEnter="Button_MouseEnter_1"/>
+            <Button Content="data2" Width="150" Height="50" Background="LightGreen"
+                    Template="{StaticResource ct1}">
+                <b:Interaction.Triggers>
+                    <b:EventTrigger EventName="MouseEnter">
+                        <b:ChangePropertyAction TargetObject="{Binding ElementName=button}" PropertyName="Background"/>
+                    </b:EventTrigger>
+                </b:Interaction.Triggers>
+            </Button>
+            <Button Content="data1" Width="150" Height="50" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave"/>
         </StackPanel>
         <StackPanel DataContext="{Binding Source={StaticResource people}}" Grid.Column="1">
-            <ListBox ItemsSource="{Binding}" ItemTemplate="{StaticResource dt1}" />
+            <ListBox ItemsSource="{Binding}" ItemTemplate="{StaticResource dt1}"/>
             <Border Height="10"/>
             <ListBox ItemsSource="{Binding}" Style="{StaticResource style1}"/>
-            <Border Height="10"></Border>
+            <Border Height="10"/>
             <ListBox ItemsSource="{Binding}"/>
-            <Border Height="10"></Border>
+            <Border Height="10"/>
             <ListBox ItemsSource="{Binding}"/>
-            <Border Height="10"></Border>
+            <Border Height="10"/>
             <ComboBox ItemsSource="{Binding}"/>
         </StackPanel>
     </Grid>
+
 </Window>

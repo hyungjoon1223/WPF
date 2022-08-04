@@ -35,6 +35,26 @@ namespace PersonBindingApp
             per.Age++;
 
         }
+
+        private void Button_MouseEnter(object sender, MouseEventArgs e)
+        {
+        }
+
+        private void Button_MouseLeave(object sender, MouseEventArgs e)
+        {
+        }
+
+        private void Button_MouseLeave_1(object sender, MouseEventArgs e)
+        {
+            Button btn = sender as Button;
+            btn.Background = new SolidColorBrush(Colors.LightGreen);
+        }
+
+        private void Button_MouseEnter_1(object sender, MouseEventArgs e)
+        {
+            Button btn = sender as Button;
+            btn.Background = new SolidColorBrush(Colors.Yellow);
+        }
     }
     public class Notifier : INotifyPropertyChanged
     {
