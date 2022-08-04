@@ -1,0 +1,64 @@
+﻿<Window x:Class="ItemsControlApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ItemsControlApp"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:StrList x:Key="lt">
+            <sys:String>123</sys:String>
+            <sys:String>45678</sys:String>
+        </local:StrList>
+        <local:PersonList x:Key="perList"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="1" Content="Click" Click="Button_Click_3"/>
+        <StackPanel DataContext="{Binding SelectedItem, ElementName=lb}" Grid.Row="0" Grid.Column="0">
+            <TextBlock Text="이름:"/>
+            <TextBox Text="{Binding Name}"/>
+            <TextBlock Text="나이:"/>
+            <TextBox Text="{Binding Age}"/>
+            <TextBlock Text="색상:"/>
+            <TextBox Text="{Binding Clr}"/>
+            <Border BorderThickness="1" Height="15"/>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+        </StackPanel>
+        <ListBox x:Name="lb" ItemsSource="{Binding List}" Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                            <TextBlock> 이름:</TextBlock>
+                            <TextBlock Text="{Binding Name}"> </TextBlock>
+                            <TextBlock > 나이:</TextBlock>
+                            <TextBlock Text="{Binding Age}">
+                            <TextBlock.ToolTip>
+                                <TextBlock>
+                                    <TextBlock Text="{Binding Clr}"></TextBlock>
+                                    <TextBlock Text="입니다~"></TextBlock>
+                                </TextBlock>
+                            </TextBlock.ToolTip>
+                            </TextBlock>
+                            <TextBlock> 색상:</TextBlock>
+                            <TextBlock Text="{Binding Clr}"> </TextBlock>
+                            <Button Click="Button_Click_2"> 정보 확인 </Button>
+                        <ComboBox Name="cb1"  ItemsSource="{Binding Traits}" MinWidth="80" SelectedIndex="0"/>
+                        <TextBox Width="80" Text="{Binding SelectedItem, ElementName=cb1, Mode=OneWay}"/>
+                        </TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>             
+        </ListBox>
+        <ListBox ItemsSource="{Binding Source={StaticResource perList}}" Grid.Row="1" Grid.Column="1"/>
+    </Grid>
+</Window>
