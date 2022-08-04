@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp1.View.View"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.View"
+        mc:Ignorable="d"
+        Title="View" Height="450" Width="800">
+    <Grid>
+        <Label Content="성(last name)" HorizontalAlignment="Left" Margin="54,48,0,0" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="txtLastName" Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Height="23" Margin="179,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="명(first name)" HorizontalAlignment="Left" Margin="54,85,0,0" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="txtFirstName" Text="{Binding FirstName, UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Left" Height="23" Margin="179,88,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="Full Name : " HorizontalAlignment="Left" Margin="331,48,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding FullName, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="413,48,0,0" VerticalAlignment="Top" Height="26" Width="224"/>
+        <Label Content="생년월일(숫자)" HorizontalAlignment="Left" Margin="54,127,0,0" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="txtBirth" Text="{Binding Birth, UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Left" Height="23" Margin="179,130,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="{Binding BirthErrMsg, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="369,130,0,0" VerticalAlignment="Top" Height="103" Width="413">
+            <Label.Style>
+                <Style TargetType="{x:Type Label}">
+                    <Setter Property="Foreground" Value="Black" />
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding BirthErr}" Value="TRUE">
+                            <Setter Property="Foreground" Value="Red" />
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Label.Style>
+        </Label>
+    </Grid>
+</Window>
