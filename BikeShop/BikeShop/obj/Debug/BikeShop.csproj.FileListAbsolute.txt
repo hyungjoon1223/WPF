@@ -20,3 +20,6 @@ C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Menu.g.cs
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Menu.baml
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Discussion.g.cs
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Discussion.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagement.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagement.baml

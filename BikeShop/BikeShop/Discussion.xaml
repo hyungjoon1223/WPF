@@ -18,7 +18,23 @@
             <RowDefinition Height="50"></RowDefinition>
         </Grid.RowDefinitions>
         <ListBox Grid.ColumnSpan="2"
-                 Margin="5"/>
+                 Margin="5">
+            <ListBox.ItemsSource>
+                <local:Talk/>
+            </ListBox.ItemsSource>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Width="300">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="./chat.png" Width="20"/>
+                            <TextBlock Text="{Binding Sender}"/>
+                        </StackPanel>
+                        <TextBlock Text="{Binding Content}"
+                                   Margin="20,0,0,0" TextWrapping="Wrap"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
         <TextBox Grid.Row="1" Margin="5">
                  Type you Message here
         </TextBox>
