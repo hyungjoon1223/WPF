@@ -1,0 +1,41 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PersonBindingApp"
+        xmlns:b="http://schemas.microsoft.com/xaml/behaviors" x:Class="PersonBindingApp.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox Name="lb1" Grid.Column="0" ItemsSource="{Binding PerList}"/>
+        <StackPanel Grid.Column="1">
+            <StackPanel DataContext="{Binding SelectedItem, ElementName='lb1'}">
+                <TextBlock>
+                    <TextBlock Text="선택한 사람의 정보 : "/>
+                    <TextBox Text="{Binding Name}"></TextBox>
+                    <TextBox Text="{Binding Age}"></TextBox>
+                    <TextBox Text="{Binding Clr}"></TextBox>
+                </TextBlock>
+            </StackPanel>
+            <Rectangle Height="10" Fill="Blue"/>
+            <StackPanel DataContext="{Binding AddPerson}">
+                <TextBlock Text="사람의 정보 추가 : "/>
+                <TextBlock Text="이름"/>
+                <TextBox Text="{Binding Name}"></TextBox>
+                <TextBlock Text="나이"/>
+                <TextBox Text="{Binding Age}"></TextBox>
+                <TextBlock Text="색상"/>
+                <TextBox Text="{Binding Clr}"></TextBox>
+                <Button Content="사람의 정보를 추가합니다." Click="Button_Click"/>
+            </StackPanel>
+            <Rectangle Height="10" Fill="Blue"/>
+            <Button Content="선택한 정보를 삭제합니다." Click="Button_Click_1"/>
+        </StackPanel>
+    </Grid>
+</Window>
