@@ -254,3 +254,25 @@ C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp12(유효성 검사와 Items
 C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp12(유효성 검사와 Items)\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
 C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp12(유효성 검사와 Items)\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
 C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp12(유효성 검사와 Items)\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\App.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\PersonBindingApp13(ViewModel 생성)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb

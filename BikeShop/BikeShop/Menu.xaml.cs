@@ -12,7 +12,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
 namespace BikeShop
 {
     /// <summary>
@@ -24,20 +23,17 @@ namespace BikeShop
         {
             InitializeComponent();
         }
-
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new Uri("/Contact.xaml", UriKind.Relative));
         }
-
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new Uri("/Discussion.xaml", UriKind.Relative));
         }
-
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/ProductsManagement.xaml", UriKind.Relative));
+            NavigationService.Navigate(new Uri("/ProductsManagementMVVM.xaml", UriKind.Relative));
         }
     }
 }

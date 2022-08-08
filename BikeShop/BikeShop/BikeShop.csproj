@@ -56,10 +56,14 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Notifier.cs" />
+    <Compile Include="ProductsManagementMVVM.xaml.cs">
+      <DependentUpon>ProductsManagementMVVM.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ProductsFactory.cs" />
     <Compile Include="ProductsManagement.xaml.cs">
       <DependentUpon>ProductsManagement.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ProductsManagementMVVMViewModel.cs" />
     <Compile Include="Talk.cs" />
     <Page Include="Contact.xaml">
       <SubType>Designer</SubType>
@@ -88,6 +92,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProductsManagementMVVM.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

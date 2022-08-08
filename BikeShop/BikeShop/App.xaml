@@ -4,6 +4,9 @@
              xmlns:local="clr-namespace:BikeShop"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <LinearGradientBrush x:Key="background">
+            <GradientStop Color="#ffDBFFE7" Offset="0"></GradientStop>
+            <GradientStop Color="#ff03882D" Offset="1"></GradientStop>
+        </LinearGradientBrush>
     </Application.Resources>
 </Application>

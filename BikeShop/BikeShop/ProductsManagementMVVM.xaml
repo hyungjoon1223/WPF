@@ -1,0 +1,46 @@
+﻿<Page x:Class="BikeShop.ProductsManagementMVVM"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BikeShop"
+      mc:Ignorable="d" 
+      d:DesignHeight="345" d:DesignWidth="644"
+      Background="{StaticResource background}"
+      Title="ProductsManagementMVVM">
+    <Page.DataContext>
+        <local:ProductsManagementMVVMViewModel/>
+    </Page.DataContext>
+    <Grid Margin="0,0,10,10">
+        <TextBlock HorizontalAlignment="Left" Margin="30,20,0,0" TextWrapping="Wrap" Text="Search" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="92,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="452"
+                 Text="{Binding SearchInput, UpdateSourceTrigger=PropertyChanged}"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Height="257" Margin="30,68,0,0" VerticalAlignment="Top" Width="355"
+                  ItemsSource="{Binding FoundProducts}"
+                  SelectedItem="{Binding SelectedProduct}"/>
+        <Border 
+            DataContext="{Binding SelectedProduct}"
+            BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="257" Margin="390,68,0,0" VerticalAlignment="Top" Width="234" Background="White">
+            <StackPanel Margin="10">
+                <TextBlock Text="Product details"
+                           FontWeight="Bold"
+                           FontSize="16"
+                           HorizontalAlignment="Center"
+                           Margin="10"/>
+                <TextBlock Text="Title"/>
+                <TextBox Text="{Binding Title}" />
+                <TextBlock Text="Price"/>
+                <TextBox Text="{Binding Price}" />
+                <TextBlock Text="Color"/>
+                <TextBox Text="{Binding Color}" />
+                <Border Background="{Binding Color}"
+                        Height="10"/>
+                <TextBlock Text="Reference"/>
+                <TextBox Text="{Binding Reference}" />
+            </StackPanel>
+
+
+        </Border>
+
+    </Grid>
+</Page>

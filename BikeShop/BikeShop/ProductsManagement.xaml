@@ -6,6 +6,7 @@
       xmlns:local="clr-namespace:BikeShop"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
+      Background="{StaticResource background}"
       Title="ProductsManagement">
     <Grid>
         <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,111,0,0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="515">

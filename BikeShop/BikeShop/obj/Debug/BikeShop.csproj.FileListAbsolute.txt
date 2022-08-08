@@ -23,3 +23,6 @@ C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Discussion.baml
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagement.g.cs
 C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagement.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\App.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagementMVVM.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagementMVVM.baml

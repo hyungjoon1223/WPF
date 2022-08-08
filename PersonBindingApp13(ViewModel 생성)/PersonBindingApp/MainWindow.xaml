@@ -15,7 +15,7 @@
                 <Setter.Value>
                     <DataTemplate>
                         <TextBlock >
-                            <TextBlock Text="이름:::"/>
+                            <TextBlock Text="이름::"/>
                             <TextBox Text="{Binding Name}"/>
                             <TextBlock Text="나이:"/>
                             <TextBox Text="{Binding Age}"/>
@@ -31,14 +31,14 @@
                 <Setter.Value>
                     <DataTemplate>
                         <Button>
-                        <StackPanel Margin="10">
-                            <TextBlock Text="이름:"/>
-                            <TextBox Text="{Binding Name}"/>
-                            <TextBlock Text="나이:"/>
-                            <TextBox Text="{Binding Age}"/>
-                            <TextBlock Text="색상:"/>
-                            <TextBox Text="{Binding Clr}"/>
-                        </StackPanel>
+                            <StackPanel Margin="10">
+                                <TextBlock Text="이름:"/>
+                                <TextBox Text="{Binding Name}"/>
+                                <TextBlock Text="나이:"/>
+                                <TextBox Text="{Binding Age}"/>
+                                <TextBlock Text="색상:"/>
+                                <TextBox Text="{Binding Clr}"/>
+                            </StackPanel>
                         </Button>
                     </DataTemplate>
                 </Setter.Value>
@@ -51,18 +51,19 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
+            <RowDefinition/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
-
-        <ListBox Name="lb1" ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True" >
+        <ListBox Name="lb1" ItemsSource="{Binding}" 
+                    IsSynchronizedWithCurrentItem="True" >
         </ListBox>
-        <ListBox Background="LightGreen" Grid.Row="1" ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True" Style="{StaticResource lbs1}">
+        <ListBox Grid.Row="1" ItemsSource="{Binding}"   IsSynchronizedWithCurrentItem="True" 
+                 Style="{StaticResource lbs1}" Background="LightGreen">
             <ListBox.Template>
                 <ControlTemplate>
                     <ScrollViewer>
                         <Grid Width="{TemplateBinding ActualWidth}">
-                            <Rectangle Margin="5" Fill="{TemplateBinding Background}"></Rectangle>
+                            <Rectangle Margin="5" Fill="{TemplateBinding Background}"/>
                             <ItemsPresenter Margin="10"/>
                         </Grid>
                     </ScrollViewer>
@@ -74,27 +75,24 @@
                 </ItemsPanelTemplate>
             </ListBox.ItemsPanel>
         </ListBox>
-
         <StackPanel Grid.Column="1">
             <StackPanel Orientation="Horizontal">
-                <TextBlock>이름: </TextBlock>
+                <TextBlock>이름:</TextBlock>
                 <TextBox Width="80" Text="{Binding Name}"/>
-                <TextBlock>나이: </TextBlock>
-                <TextBox ToolTip="{Binding Path=(Validation.Errors)[0].ErrorContent, RelativeSource={RelativeSource Self}}">
+                <TextBlock>나이:</TextBlock>
+                <TextBox Width="80" ToolTip="{Binding Path=(Validation.Errors)[0].ErrorContent, RelativeSource={RelativeSource Self}}">
                     <TextBox.Text>
                         <Binding Path="Age">
                             <Binding.ValidationRules>
                                 <local:AgeValidation/>
                             </Binding.ValidationRules>
-                            
                         </Binding>
                     </TextBox.Text>
-                    <!--ToolTip="{Binding Path=(Validation.Errors)[0].ErrorContent, ElementName=mytb, ValidationRules={StaticResource ageValidation}}">-->
                 </TextBox>
                 <TextBlock>색상:</TextBlock>
-                <TextBox Text="{Binding Clr}"/>
+                <TextBox Width="80" Text="{Binding Clr}"/>
             </StackPanel>
-            <Button Content="추가"/>
+            <Button Content="추가" DataContext="{Binding DataContext, ElementName=mainWindow}" Command="{Binding AddPerCommand}"/>
         </StackPanel>
     </Grid>
 </Window>
