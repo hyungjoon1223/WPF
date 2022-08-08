@@ -1,0 +1,115 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PersonBindingApp"
+        xmlns:b="http://schemas.microsoft.com/xaml/behaviors" x:Class="PersonBindingApp.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <Style TargetType="ListBox">
+            <Setter Property="ItemTemplate">
+                <Setter.Value>
+                    <DataTemplate>
+                        <TextBlock >
+                            <TextBlock Text="이름:"/>
+                            <TextBox Text="{Binding Name}"/>
+                            <TextBlock Text="나이:"/>
+                            <TextBox Text="{Binding Age}"/>
+                            <TextBlock Text="색상:"/>
+                            <TextBox Text="{Binding Clr}"/>
+                        </TextBlock>
+                    </DataTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="lbs1" TargetType="ListBox">
+            <Setter Property="ItemTemplate">
+                <Setter.Value>
+                    <DataTemplate>
+                        <TextBlock >
+                            <TextBlock Text="이름:"/>
+                            <TextBox Text="{Binding Name}"/>
+                            <TextBlock Text="나이:"/>
+                            <TextBox Text="{Binding Age}"/>
+                            <TextBlock Text="색상:"/>
+                            <TextBox Text="{Binding Clr}"/>
+                        </TextBlock>
+                    </DataTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ScrollViewer>
+            <StackPanel DataContext="{Binding}" Grid.Column="0">
+                <StackPanel DataContext="{Binding PerList}">
+                    <TextBlock>
+                        <TextBlock Text="선택한 사람의 정보: "/>
+                        <TextBox Text="{Binding Name}" ></TextBox>
+                        <TextBox Text="{Binding Age}"></TextBox>
+                        <TextBox Text="{Binding Clr}"></TextBox>
+                    </TextBlock>
+
+                    <Rectangle Height="10" Fill="Blue"/>
+                    <ListBox Name="lb1" ItemsSource="{Binding}" 
+                             Style="{StaticResource lbs1}" IsSynchronizedWithCurrentItem="True" >
+                    </ListBox>
+                    <Rectangle Height="3" Fill="Blue"/>
+                    <ListBox ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True">
+                        <ListBox.Style>
+                            <StaticResource ResourceKey="lbs1"/>
+                        </ListBox.Style>
+                    </ListBox>
+                </StackPanel>
+                
+                <StackPanel>
+                <Rectangle Height="3" Fill="Blue"/>
+                <ListBox ItemsSource="{Binding PerListView1}"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="0" Height="30" Margin="10" Content="필터링" Click="Button_Click_2"/>
+                        <Button Grid.Column="1" Height="30" Margin="10" Content="정렬" Click="Button_Click_3"/>
+                    </Grid>
+                </StackPanel>
+                
+                <StackPanel>
+                <Rectangle Height="3" Fill="Blue"/>
+                <ListBox ItemsSource="{Binding PerListView2}"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="0" Height="30" Margin="10" Content="필터링" Click="Button_Click_4"/>
+                        <Button Grid.Column="1" Height="30" Margin="10" Content="정렬" Click="Button_Click_5"/>
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+        <StackPanel Grid.Column="1">
+            <StackPanel DataContext="{Binding AddPerson}">
+                <TextBlock Text="사람의 정보 추가: "/>
+                <TextBlock Text="이름"/>
+                <TextBox Text="{Binding Name}" ></TextBox>
+                <TextBlock Text="나이"/>
+                <TextBox Text="{Binding Age}"></TextBox>
+                <TextBlock Text="색상"/>
+                <TextBox Text="{Binding Clr}"></TextBox>
+                <Button DataContext="{Binding DataContext, ElementName=grid}" Content="사람의 정보를 추가합니다." Command="{Binding AddPersonCommad}"/>
+            </StackPanel>
+            <Rectangle Height="10" Fill="Blue"/>
+            <Button Content="선택한 정보를 삭제합니다." Click="Button_Click_1"/>
+        </StackPanel>
+    </Grid>
+</Window>

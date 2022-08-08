@@ -1,0 +1,212 @@
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\App.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220803\PersonBindingApp\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\App.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp2\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\App.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp3(생일축하)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\App.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220803\PersonBindingApp4(INPChanged 구현클래스)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\App.g.cs
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220804\PersonBindingApp5(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\App.baml
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\App.g.cs
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\App.baml
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Projects\WPF\example\ex220804\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\App.g.cs
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\App.baml
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\Users\ATI-5\Desktop\PersonBindingApp6(리소스,스타일,템플릿)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.SuggestedBindingRedirects.cache
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\App.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\App.baml
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp6(리소스,스타일,템플릿) - 복사본\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.SuggestedBindingRedirects.cache
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\App.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\App.baml
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp8(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.SuggestedBindingRedirects.cache
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\App.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\App.baml
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp9(리스트 뷰 사용)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\bin\Debug\PersonBindingApp.exe.config
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\bin\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\bin\Debug\PersonBindingApp.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.AssemblyReference.cache
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.SuggestedBindingRedirects.cache
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\MainWindow.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\App.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.cache
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp_MarkupCompile.lref
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\App.baml
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\MainWindow.baml
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.g.resources
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.Properties.Resources.resources
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.GenerateResource.cache
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CoreCompileInputs.cache
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.csproj.CopyComplete
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.exe
+C:\project\WPF\example\ex220805\PersonBindingApp10(커맨드 사용한 사람추가)\PersonBindingApp\obj\Debug\PersonBindingApp.pdb
