@@ -1,0 +1,108 @@
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\bin\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\bin\Debug\BikeShop.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Contact.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Contact.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\BikeShop.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Menu.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Menu.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Discussion.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\Discussion.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagement.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagement.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\App.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagementMVVM.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop\BikeShop\obj\Debug\ProductsManagementMVVM.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\bin\Debug\BikeShop.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\bin\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\bin\Debug\BikeShop.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\Contact.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\Discussion.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\Menu.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\ProductsManagementMVVM.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\App.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\Contact.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\Discussion.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\Menu.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\ProductsManagementMVVM.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리)\BikeShop\obj\Debug\BikeShop.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\bin\Debug\BikeShop.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\bin\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\bin\Debug\BikeShop.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\Contact.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\Discussion.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\Menu.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\ProductsManagementMVVM.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\App.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\Contact.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\Discussion.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\Menu.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\ProductsManagementMVVM.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리) !!!!\BikeShop\obj\Debug\BikeShop.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\bin\Debug\BikeShop.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\bin\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\bin\Debug\BikeShop.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\AddPageView.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\Contact.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\Discussion.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\Menu.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\ProductsManagementMVVM.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\App.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\Contact.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\Discussion.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\Menu.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\ProductsManagementMVVM.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\AddPageView.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\BikeShop (마무리 페이지생성)\BikeShop\obj\Debug\BikeShop.pdb

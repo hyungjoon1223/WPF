@@ -23,3 +23,28 @@ C:\Users\ATI-4\Desktop\220809_황형준_실습과제\220809_황형준_실습과�
 C:\Users\ATI-4\Desktop\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.csproj.CopyComplete
 C:\Users\ATI-4\Desktop\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.exe
 C:\Users\ATI-4\Desktop\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\220809_황형준_실습과제.exe.config
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\220809_황형준_실습과제.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\220809_황형준_실습과제.pdb
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\ScottPlot.dll
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\ScottPlot.WPF.dll
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\System.Drawing.Common.dll
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\System.ValueTuple.dll
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\ScottPlot.xml
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\bin\Debug\System.ValueTuple.xml
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.csproj.AssemblyReference.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\MainWindow.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\App.g.cs
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제_MarkupCompile.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제_MarkupCompile.lref
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\MainWindow.baml
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.g.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\_220809_황형준_실습과제.Properties.Resources.resources
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.csproj.GenerateResource.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.csproj.CoreCompileInputs.cache
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.csproj.CopyComplete
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.exe
+C:\Users\ATI-4\Documents\GitHub\WPF\220809_황형준_실습과제\220809_황형준_실습과제\obj\Debug\220809_황형준_실습과제.pdb
