@@ -1,0 +1,19 @@
+﻿<Window x:Class="_220809_황형준_실습과제.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_220809_황형준_실습과제"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="556" Width="1154">
+    <Grid Margin="0,0,10,-6">
+        <WpfPlot x:Name="Plot" Margin="585,98,46,52"/>
+        <TextBox x:Name="text" HorizontalAlignment="Left" Height="21" Margin="140,57,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="309"/>
+        <Button Content="불러오긔~" HorizontalAlignment="Left" Height="42" Margin="471,50,0,0" VerticalAlignment="Top" Width="101" Click="Button_Click"/>
+        <TreeView x:Name="Tree" HorizontalAlignment="Left" Height="296" Margin="129,135,0,0" VerticalAlignment="Top" Width="443" SelectedItemChanged="Tree_SelectedItemChanged"/>
+        <ComboBox x:Name="comboBox1" HorizontalAlignment="Left" Height="28" Margin="922,57,0,0" VerticalAlignment="Top" Width="154" RenderTransformOrigin="0.429,0.674" SelectionChanged="comboBox1_SelectionChanged">
+            <ComboBoxItem Content="DataDist"/>
+            <ComboBoxItem Content="DataTime"/>
+        </ComboBox>
+    </Grid>
+</Window>
