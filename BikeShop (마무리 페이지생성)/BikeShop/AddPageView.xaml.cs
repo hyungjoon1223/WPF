@@ -32,6 +32,7 @@ namespace BikeShop
             var list = Application.Current.Properties["products"] as ObservableCollection<Product>;
             var vm = DataContext as AddProductViewModel;
             list.Add(vm.AddProduct);
+            MessageBox.Show("원소 추가 완료");
         }
     }
 }
